@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📖 Wanting to learn **Java and C#**
+- 📖 Wanting to learn **JavaScript and C++**
 
 - 📫 How to reach me **dragomirdelinus@gmail.com**
 
