@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dragomir</h1>
 <h3 align="center">Beginner programmer, looking to learn as much as i can and a lover of Unreal Engine</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 📖 Wanting to learn **JavaScript and C++**
-
-- 📫 How to reach me **voscar.souza@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-oscar-80aa6b231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-oscar-80aa6b231" height="30" width="40" /></a>
